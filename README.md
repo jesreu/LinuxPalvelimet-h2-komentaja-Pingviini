@@ -25,8 +25,23 @@ Ensimmäisellä komennolla haemme uusimmat mahdolliset paketit linuxin paketinha
 ![Mikro3](https://user-images.githubusercontent.com/112503770/213953395-63898721-27a8-49dd-9111-4c6bf74f167d.png)
 
 
-## Linux tietokoneen raudan selvittäminen
+## Koneen raudan selvittäminen lshw komennolla
+Linux tietokoneen raudan sisältö voidaan selvittää käyttämällä lshw ohjelmaa, mikäli sinulla ei ole ohjelmaa asennettuna aja komennot:
 
+    sudo apt update
+    sudo apt install lshw
+    
+Ensimmäisellä komennolla haemme uusimmat mahdolliset paketit linuxin paketinhallintajärjestelmästä, tämä varmistaa, että ohjelma, jonka haluamme asentaa on uusin mahdollinen versio. Toinen komento asentaa lshw ohjelman.
+
+Ajamalla komennon:
+    
+    sudo lshw -short -sanitize
+    
+Tulostaa ohjelma komentoriville kuvauksen tietokoneen raudasta ks. kuva. Komennon vaihtoehdoilla -short ja -sanitize muokataan tulosteen dataa, että siitä tulisi luettavampaa (-short) ja se ei sisällä mahdollisesti arkoja tietoja (-sanitize).
+
+![lshw1](https://user-images.githubusercontent.com/112503770/213954447-049daf79-328c-4268-9e36-c4d34c1f1955.png)
+
+Listauksessa ilmenee tietokoneen järjestelmä, joka on VirtualBox, koska ajamme linuxia virtual boxissa. Tietokoneen järjestelmän biosin ja ramin muisti. Tietokoneen prosessori AMD Ryzen 7 5800x 8-core Processor. Listauksessa tulee ilmi tietokoneen osat, jotka ovat virtualisoituja tai emojärjestelmän kautta saatuja.
 
 ## Ohjelmien asentaminen
 
