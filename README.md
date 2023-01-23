@@ -20,11 +20,9 @@ Ajettavat komennot:
     sudo apt install micro
     micro --version
 
-Ensimmäisellä komennolla haemme uusimmat mahdolliset paketit linuxin paketinhallintajärjestelmästä, tämä varmistaa, että ohjelma, jonka haluamme asentaa on uusin mahdollinen versio. Toinen komento asentaa micro ohjelman. Kolmannella komennolla voimme vielä tarkistaa, että ohjelma on asentunut. Katso kuva:
+Ensimmäisellä komennolla haemme uusimmat mahdolliset paketit linuxin paketinhallintajärjestelmästä, tämä varmistaa, että ohjelma, jonka haluamme asentaa on uusin mahdollinen versio. Toinen komento asentaa micro ohjelman. Kolmannella komennolla voimme vielä tarkistaa, että ohjelma on asentunut ja sen versionumeron. Katso kuva:
 
-
-
-
+![Mikro3](https://user-images.githubusercontent.com/112503770/213953395-63898721-27a8-49dd-9111-4c6bf74f167d.png)
 
 
 ## Linux tietokoneen raudan selvittäminen
