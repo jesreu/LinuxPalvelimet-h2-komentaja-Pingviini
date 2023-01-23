@@ -2,22 +2,22 @@
 Kirjoittanut: Jesse Reunamo
 Tehty osana kurssia: https://terokarvinen.com/2023/linux-palvelimet-2023-alkukevat/
 
-##Tiivistelmä
+## Tiivistelmä
 Raportti linuxin komentorivin käyttämisestä, ja erinäisten ohjelmien asentamisesta.
 
-##Komentorivin perusteet
+## Komentorivin perusteet
 
 
-##Mikro tekstieditorin asennus
+## Mikro tekstieditorin asennus
 
 
-##Linux tietokoneen raudan selvittäminen
+## Linux tietokoneen raudan selvittäminen
 
 
-##Ohjelmien asentaminen
+## Ohjelmien asentaminen
 
 
-##Järjestelmän talletuspaikat
+## Järjestelmän talletuspaikat
 
 
-##Grep-komennon perusteet
+## Grep-komennon perusteet
