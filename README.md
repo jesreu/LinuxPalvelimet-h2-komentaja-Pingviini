@@ -44,7 +44,7 @@ Tulostaa ohjelma komentoriville kuvauksen tietokoneen raudasta ks. kuva. Komenno
 Listauksessa ilmenee tietokoneen järjestelmä, joka on VirtualBox, koska ajamme linuxia virtual boxissa. Tietokoneen järjestelmän biosin ja ramin muisti. Tietokoneen prosessori AMD Ryzen 7 5800x 8-core Processor. Listauksessa tulee ilmi tietokoneen osat, jotka ovat virtualisoituja tai emojärjestelmän kautta saatuja. Bridge kuvastaa järjestelmän erilaisia liitäntä laitteita, jotka pitävät huolen eri komponenttien välisestä keskustelusta. 
 
 ## Ohjelmien asentaminen
-Seuraavaksi asennamme useamman komentoriviohjelman yhdellä komenolla. Ohjelmat, jotka asennamme ovat: Terminator, Cool retro term ja terminology. Kokeilemalla eri komentoriviohjelmia saat enememmän vaihtoehtoja hienosäätämiseen ja mahdollisuuden antaa visuaalista ilmettä komentoriville. 
+Seuraavaksi asennamme useamman komentoriviohjelman yhdellä komenolla. Ohjelmat, jotka asennamme ovat: Terminator, Cool retro term ja terminology. Kokeilemalla eri komentoriviohjelmia saat enemmän vaihtoehtoja hienosäätämiseen ja mahdollisuuden antaa visuaalista ilmettä komentoriville. 
 
     sudo apt update
     sudo apt-get install terminator cool-retro-term terminology
