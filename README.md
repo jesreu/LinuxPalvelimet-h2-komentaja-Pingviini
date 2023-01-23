@@ -1,6 +1,6 @@
 # LinuxPalvelimet-h2-komentaja-Pingviini
-Kirjoittanut: Jesse Reunamo
-Tehty osana kurssia: https://terokarvinen.com/2023/linux-palvelimet-2023-alkukevat/
+    Kirjoittanut: Jesse Reunamo
+    Tehty osana kurssia: https://terokarvinen.com/2023/linux-palvelimet-2023-alkukevat/
 
 ## Tiivistelmä
 Raportti linuxin komentorivin käyttämisestä, ja erinäisten ohjelmien asentamisesta.
