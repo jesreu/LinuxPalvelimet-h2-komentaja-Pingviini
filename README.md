@@ -65,7 +65,7 @@ Terminology:
 Hakemistojen peruskomentoja:
 
     cd <hakemiston nimi> komennolla voit siirtyä haluttuun hakemistoon.
-    cd /                 esimerkiksi siirtää juuri hakemistoon
+    cd /                 siirtää sinut juuri hakemistoon
     ls <hakemiston nimi> näyttää hakemiston sisällön
     
 Lyhyt listaus tärkeistä linuxin tallenuspaikoista, ja niistä esimerkit    
